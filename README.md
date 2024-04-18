@@ -9,7 +9,7 @@ This is a simple todo web application built using HTML, CSS, and JavaScript. It 
 
 ## Usage
 * Clone the repository to your local machine.
-* run the command in terminal npm i && npm run dev.
+* run the command in terminal npm i then npm run dev.
 * Use the input field to add new todo items.
 * Click on the delete button to remove todo items.
 * Click on the checkbox to mark todo items as completed.
