@@ -1,0 +1,13 @@
+.todo-input {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.form {
+  padding-top: 5px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
